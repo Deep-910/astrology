@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# Python
+venv
+__pycache__
+
+#libraries
+yarn-error.log
+.geonames_cache
+
+.DS_Store
